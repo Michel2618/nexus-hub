@@ -1,4 +1,4 @@
-# nexus-hub 🏡
+# 🏡 nexus-hub
 
 This repository contains a collection of custom DIY smart home automation projects and IoT modules. While each module can operate independently, they are designed with future interconnection in mind.
 
